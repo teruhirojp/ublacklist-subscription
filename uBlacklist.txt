@@ -1,1 +1,2 @@
 *://*.techacademy.jp/*
+*://*.internous.co.jp/*
